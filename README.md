@@ -24,6 +24,14 @@ This project is a classic, fully interactive Sudoku game built using Python and 
 - Random, Copy Modules – For puzzle generation and board state
 
 #
+## **Screenshots of the Game**
+![WhatsApp Image 2025-04-16 at 21 55 56 (1)](https://github.com/user-attachments/assets/8540cade-b268-4cb7-8aa8-832c3d5bfdba)
+
+![image](https://github.com/user-attachments/assets/fb7d4e96-a444-42a2-ba4b-a08d77b0faf5)
+![WhatsApp Image 2025-04-16 at 22 01 16](https://github.com/user-attachments/assets/1c2e07c0-5384-4676-afa6-a8d80915f938)
+
+
+# 
 
 ##  **Learnings**
 
